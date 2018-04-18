@@ -1,0 +1,62 @@
+<component name="ArtifactManager">
+  <artifact name="ethereumj-all-packages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ethereumj_all_packages_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ethereumj.jar">
+        <element id="module-output" name="ethereumj-core_main" />
+      </element>
+      <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
+      <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+      <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.7" />
+      <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.7" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: org.xerial.snappy:snappy-java:1.1.4" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" />
+      <element id="library" level="project" name="Gradle: com.madgag.spongycastle:core:1.58.0.0" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.5.1" />
+      <element id="library" level="project" name="Gradle: net.bytebuddy:byte-buddy-agent:1.8.3" />
+      <element id="library" level="project" name="Gradle: net.bytebuddy:byte-buddy:1.8.3" />
+      <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Gradle: com.cedarsoftware:json-io:2.4.1" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.10" />
+      <element id="library" level="project" name="Gradle: com.madgag.spongycastle:prov:1.58.0.0" />
+      <element id="library" level="project" name="Gradle: com.google.guava:guava:24.1-jre" />
+      <element id="library" level="project" name="Gradle: org.apache.commons:commons-collections4:4.0" />
+      <element id="library" level="project" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.7" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: com.google.errorprone:error_prone_annotations:2.1.3" />
+      <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.20" />
+      <element id="library" level="project" name="Gradle: com.typesafe:config:1.2.1" />
+      <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+      <element id="library" level="project" name="Gradle: org.ethereum:leveldbjni-all:1.18.3" />
+      <element id="library" level="project" name="Gradle: com.google.code.findbugs:jsr305:3.0.0" />
+      <element id="library" level="project" name="Gradle: com.github.briandilley.jsonrpc4j:jsonrpc4j:1.1" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-test:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: org.objenesis:objenesis:2.6" />
+      <element id="library" level="project" name="Gradle: io.netty:netty-all:4.0.30.Final" />
+      <element id="library" level="project" name="Gradle: org.mockito:mockito-core:2.18.0" />
+      <element id="library" level="project" name="Gradle: com.cedarsoftware:java-util:1.8.0" />
+      <element id="library" level="project" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" />
+      <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.4" />
+      <element id="library" level="project" name="Gradle: org.checkerframework:checker-compat-qual:2.0.0" />
+      <element id="library" level="project" name="Gradle: com.googlecode.concurrent-locks:concurrent-locks:1.0.0" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.1.7" />
+      <element id="library" level="project" name="Gradle: org.iq80.leveldb:leveldb:0.7" />
+      <element id="library" level="project" name="Gradle: com.google.j2objc:j2objc-annotations:1.1" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: org.ethereum:solcJ-all:0.4.19" />
+      <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-orm:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.5.1" />
+      <element id="library" level="project" name="Gradle: org.ethereum:rocksdbjni:5.9.2" />
+      <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.2.0.RELEASE" />
+      <element id="library" level="project" name="Gradle: org.javassist:javassist:3.15.0-GA" />
+      <element id="library" level="project" name="Gradle: org.iq80.leveldb:leveldb-api:0.7" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+      <element id="library" level="project" name="Gradle: junit:junit:4.12" />
+    </root>
+  </artifact>
+</component>
